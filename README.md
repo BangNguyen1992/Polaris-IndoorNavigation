@@ -4,6 +4,11 @@ Polaris is an iOS application which allow users to locate themselves inside the 
 
 Using iBeacon technology from Estimote, we had created a demo version of the app, which using our classroom at school.
 
+##Contributors:
+[Bang Nguyen](https://github.com/BangNguyen1992)
+
+[Niina Rantanen](https://github.com/niinakr)
+
 ## What is iBeacon?
 
 iBeacon™ is a communication protocol developed by Apple on top of Bluetooth Smart technology. It allows developers to create mobile apps aware of location context provided by beacons. Estimote Beacons are compatible with iBeacon.
