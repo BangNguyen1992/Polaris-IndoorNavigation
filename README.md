@@ -31,10 +31,10 @@ Apple’s introduction to iBeacon is available at [developer.apple.com](https://
 
 ## Demo View
 ###Loading Screen
-![Loading Screen]:(https://github.com/BangNguyen1992/Polaris-IndoorNavigation/blob/master/loading_screen.jpg)
+![Loading Screen](https://github.com/BangNguyen1992/Polaris-IndoorNavigation/blob/master/loading_screen.jpg)
 
 ###Main Screen
-![Main Screen]: (https://github.com/BangNguyen1992/Polaris-IndoorNavigation/blob/master/main_screen.jpg)
+![Main Screen](https://github.com/BangNguyen1992/Polaris-IndoorNavigation/blob/master/main_screen.jpg)
 
 ###Side Menu
-![Side Menu]: (https://github.com/BangNguyen1992/Polaris-IndoorNavigation/blob/master/side_menu.jpg)
+![Side Menu](https://github.com/BangNguyen1992/Polaris-IndoorNavigation/blob/master/side_menu.jpg)
